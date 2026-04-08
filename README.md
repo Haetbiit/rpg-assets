@@ -1,6 +1,6 @@
 # rpg-assets
 ## Background Music
-**bgm** - https://raw.githubusercontent.com/Haetbiit/rpg-assets/main/ambient-music.mp3
+**bgm** - https://raw.githubusercontent.com/Haetbiit/rpg-assets/main/musicbg.mp3
 
 
 
